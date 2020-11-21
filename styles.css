@@ -1,8 +1,14 @@
-body{
-    background-color: red;
-}
 /*Navbar*/
 nav ul{
     display: flex;
     flex-direction: row;
+    border: solid black 1px;
+    font-size: 30px;
+    padding-left: 530px;
+    padding-top: 10px;
+    height: 45px;
+}
+
+nav li{
+    padding-right: 25px;
 }
