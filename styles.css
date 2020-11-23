@@ -4,11 +4,29 @@ nav ul{
     flex-direction: row;
     border: solid black 1px;
     font-size: 30px;
-    padding-left: 530px;
+    padding-left: 520px;
     padding-top: 10px;
     height: 45px;
+    background-color: black;
 }
 
 nav li{
     padding-right: 25px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.main-img{
+    background-image: url('./images/forest.jpg');
+    border: solid red 1px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.main-img h1{
+    padding-top: 100px;
 }
