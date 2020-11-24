@@ -42,5 +42,18 @@ nav li{
 /*About Section*/
 
 .about{
+    padding-top: 50px;
     text-align: center;
+    height: 450px;
+    font-family: sans-serif;
+}
+
+.about h2{
+    font-size: 30px;
+}
+
+.about p{
+    font-size: 25px;
+    height: 100px;
+    padding-top: 20px;
 }
