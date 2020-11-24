@@ -16,10 +16,11 @@ nav li{
     font-family: sans-serif;
 }
 
+/*main banner section*/
+
 .main-img{
     background-image: url('./images/forest.jpg');
-    border: solid red 1px;
-    height: 600px;
+    height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -28,5 +29,18 @@ nav li{
 }
 
 .main-img h1{
-    padding-top: 100px;
+    padding-top: 170px;
+    font-size: 120px;
+    font-family: sans-serif;
+}
+
+.main-img p{
+    padding-top: 25px;
+    font-family: sans-serif;
+}
+
+/*About Section*/
+
+.about{
+    text-align: center;
 }
