@@ -55,5 +55,11 @@ nav li{
 .about p{
     font-size: 25px;
     height: 100px;
-    padding-top: 20px;
+    padding-top: 45px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+.more-info{
+
 }
