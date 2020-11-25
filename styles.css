@@ -55,11 +55,15 @@ nav li{
 .about p{
     font-size: 25px;
     height: 100px;
-    padding-top: 45px;
+    padding-top: 30px;
     margin-left: 240px;
     margin-right: 240px;
 }
 
-.more-info{
-
+.exp{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    font-family: sans-serif;
+    justify-content: center;
 }
