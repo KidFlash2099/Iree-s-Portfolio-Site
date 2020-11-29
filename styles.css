@@ -60,7 +60,7 @@ nav li{
     margin-right: 240px;
 }
 
-/*adding the languages i have experience with*/
+/*adding the languages I have experience with*/
 
 .exp-outline h3{
     text-align: center;
@@ -74,7 +74,6 @@ nav li{
     justify-content: center;
     height: 400px;
     font-family: sans-serif;
-    border: solid red 1px;
 }
 
 .exp ul{
@@ -83,8 +82,9 @@ border: solid 1px blue;
 font-size: 25px;
 margin-right: 50px;
 margin-left: 50px;
+margin-bottom: 230px;
 }
 
 .exp li{
-    padding-top: 12px;
+    padding-bottom: 12px;
 }
