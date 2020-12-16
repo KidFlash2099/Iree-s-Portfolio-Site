@@ -138,6 +138,11 @@ margin-bottom: 230px;
     border-radius: 5px;
 }
 
+.definition p{
+    display: flex;
+    flex-direction: row;
+}
+
 /*Contact form section*/
 .contact{
     height: 450px;
