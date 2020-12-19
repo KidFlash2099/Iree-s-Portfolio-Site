@@ -110,7 +110,7 @@ margin-bottom: 230px;
 /*Personal Project section*/
 .portfolio{
     height: 600px; 
-    background-color: rgb(38, 240, 38);
+    background-color: rgb(9, 163, 9);
 }
 
 .portfolio h4{
@@ -154,6 +154,13 @@ margin-bottom: 230px;
     font-weight: bold;
     font-family: sans-serif;
     padding-top: 30px;
+}
+
+.contact p{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
 }
 
 /*footer section for the site*/
